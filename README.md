@@ -1,4 +1,7 @@
+
 ## Hi there 👋
+
+![nugget](https://media1.tenor.com/m/C4zIjM1_EmMAAAAd/nuggets.gif)
 
 <!--
 **honziksm/honziksm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
