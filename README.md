@@ -1,5 +1,5 @@
 
-## Hi there 👋
+## Hi there 
 
 ![nugget](https://media1.tenor.com/m/C4zIjM1_EmMAAAAd/nuggets.gif)
 
